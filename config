@@ -18,6 +18,7 @@ exec_always --no-startup-id setxkbmap tr
 gaps inner 10
 gaps outer 5
 for_window [class=".*"] border pixel 3
+
 # i3 config file (v4)
 
 set $mod Mod4
