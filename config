@@ -1,5 +1,5 @@
 # polybar
-exec_always --no-startup-id $HOME/.config/polybar/launch.sh
+exec_always --no-startup-id ~/.config/polybar/launch.sh
 
 # feh
 exec_always --no-startup-id feh --bg-scale ~/ekrank/a2.jpg
